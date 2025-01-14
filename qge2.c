@@ -2,6 +2,7 @@
 int main()
 {
     int n;
-    printf("printf('n')");
-    return 0 ;
+    n = printf("printf('n')");
+    printf("\n%d",n);
+    return 0;
 }
