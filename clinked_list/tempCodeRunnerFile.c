@@ -1,0 +1,3 @@
+deleteAtBeg(head);
+    printf("\n");
+    
